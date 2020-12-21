@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: Linhttps://nchc.dl.sourceforge.net/project/evolution-x/judyln/EvolutionX_4.7_judyln-10.0-20201012-1049-OFFICIAL.zipk ROM
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
-  ROM_AONLY: ROM_A.7z
-  ROM_AB: ROM_AB.7z
+  ROM_AONLY: ROMnnt_A.7z
+  ROM_AB: ROM_nntAB.7z
 
 jobs:
   build:
