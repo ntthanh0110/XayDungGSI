@@ -5,9 +5,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
-  ROM_NAME: Generic
-  BUILD_AB: true
+  ROM_URL https://ota.thenotonly.com/download/EvolutionX_5.2_judyln-11-20201222-1818-OFFICIAL.zip: 
+  ROM_NAME   : Chung
+  BUILD_AB  : true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
   ROM_AB: ROM_AB.7z
